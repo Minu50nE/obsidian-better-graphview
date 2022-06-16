@@ -10,7 +10,7 @@ I have no experience with npm, typescript, hell, any form of real-world developm
 Enjoy :).
 
 
-<!-->
+<!--
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
@@ -85,4 +85,4 @@ Quick starting guide for new plugin devs:
 ## API Documentation
 
 See https://github.com/obsidianmd/obsidian-api
-<-->
+-->
