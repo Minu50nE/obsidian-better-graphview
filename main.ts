@@ -79,7 +79,7 @@ export default class MyPlugin extends Plugin {
 	}
 
 	onunload() {
-
+		new Notice('Plugin unloaded!');
 	}
 
 	async loadSettings() {
